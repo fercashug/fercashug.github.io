@@ -1,7 +1,6 @@
-title: fercashug
-description: A starter template for a Jeykll site using the Just the Docs theme!
-theme: just-the-docs
-
+title: Coches Hugo Fdez
+description: Esta es una página web de compraventa de coches a mu buen precio y con gran variedad
+theme: compraventa de coches
 url: https://just-the-docs.github.io
 
 aux_links:
