@@ -27,8 +27,7 @@ Sirve para transportar gente, animales, materiales lijeros y pesados, puedes ir 
 
 ![Seat Panda de 40 caballos de potencia](https://i.pinimg.com/originals/6f/95/b3/6f95b321b77763c0da83eb9e04208ed1.jpg)
 
-
-----
+Este  seat panda tiene un consumo ínfimo y por 1000 euros puede ser tuyo!! No desaproveches la ocasion, que uno de estos no aparecen todos los días.
 
 [^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site)
 
