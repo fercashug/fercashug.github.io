@@ -3,6 +3,7 @@ title: indice
 layout: home
 ---
 
+Esta es la portada a la página que buscas para la compra de tu nuevo cohce o para la venta de tu antigua chatarra
 ![imagen titulo](https://www.mercedes-benz.es/content/spain/es/passengercars/models/coupe/c192-e-performance-24-1/overview/_jcr_content/root/responsivegrid/tabs_1098081516/tabitem/simple_teaser/simple_teaser_item.component.damq2.3431474203683.jpg/mercedes-amg-gt-63-se-perf-c192-equipment-exterior-chrome-package-764x573-03-2024.jpg)
 
 ----
