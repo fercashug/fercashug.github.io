@@ -12,11 +12,19 @@ Vendo este precioso chévrolet del 86 por tan solo 6500€
 
 Esta en perfetas condiciones con tan solo 50000 km y conla ITV pasada  en 2024
 
+<br>
+<br>
+<br>
 
 ![Citroen C15 de 2002 con 300.000 km](https://cdn.motor1.com/images/mgl/VznReB/s1/citroen-c15-deportiva.webp)
 
 Sirve para transportar gente, animales, materiales lijeros y pesados, puedes ir al monte cpn ella, es un vehículo indestructible de los que ya no quedan, **y tan solo por 4000€**
 
+<br>
+<br>
+<br>
+
+Vendo este precioso Seat pande de 40 caballos perfecto  para el monte y para la nieve
 
 ![Seat Panda de 40 caballos de potencia](https://i.pinimg.com/originals/6f/95/b3/6f95b321b77763c0da83eb9e04208ed1.jpg)
 
