@@ -21,6 +21,12 @@ Esta en perfetas condiciones con tan solo 50000 km y conla ITV pasada  en 2024
 
 Sirve para transportar gente, animales, materiales lijeros y pesados, puedes ir al monte cpn ella, es un vehículo indestructible de los que ya no quedan, **y tan solo por 4000€**
 
+<br>
+<br>
+<br>
+![Este es un Seat Panda de 40 caballos de potencia, en perfecto estado y listo para disfrutar](https://live.staticflickr.com/7188/6820567842_dae49506af_z.jpg)
+
+
 ----
 
 [^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
