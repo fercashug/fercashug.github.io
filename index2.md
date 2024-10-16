@@ -24,7 +24,7 @@ Sirve para transportar gente, animales, materiales lijeros y pesados, puedes ir 
 <br>
 <br>
 <br>
-![Este es un Seat Panda de 40 caballos de potencia, en perfecto estado y listo para disfrutar](https://live.staticflickr.com/7188/6820567842_dae49506af_z.jpg)
+![Este es un Seat Panda de 40 caballos de potencia en perfecto estado y listo para disfrutar](https://live.staticflickr.com/7188/6820567842_dae49506af_z.jpg)
 
 
 ----
