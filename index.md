@@ -18,7 +18,7 @@ Más de 2000 coches vendidos este año. 2 de cada 20 clientes están satisfechos
 Más de 3333 coches comprados en los últimos 2 años y restaurados para vender, así que no desaproveches tu oportunidad y date una vuelta por mi taller.
 ----
 
-(https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
+
 
 [Just the Docs]: https://just-the-docs.github.io/just-the-docs/
 [GitHub Pages]: https://docs.github.com/en/pages
