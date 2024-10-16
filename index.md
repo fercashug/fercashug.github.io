@@ -7,9 +7,18 @@ Esta es la portada a la página que buscas para la compra de tu nuevo cohce o pa
 
 ![imagen titulo](https://www.mercedes-benz.es/content/spain/es/passengercars/models/coupe/c192-e-performance-24-1/overview/_jcr_content/root/responsivegrid/tabs_1098081516/tabitem/simple_teaser/simple_teaser_item.component.damq2.3431474203683.jpg/mercedes-amg-gt-63-se-perf-c192-equipment-exterior-chrome-package-764x573-03-2024.jpg)
 
+Encuentra tu vehículo ideal: coches segunda mano, Km 0, nuevos y más.Te ayudamos, acompañamos y asesoramos en tu búsqueda. Nos ubicamos en la entrada de lugo en frente del burger king.
+
+Teléfono fijo: 982856940                                                                        Hugo Fdez Casto
+
+Teléfono móvil: 634590823
+
+Más de 2000 coches vendidos este año. 2 de cada 20 clientes están satisfechos con su compra.
+
+Más de 3333 coches comprados en los últimos 2 años y restaurados para vender, así que no desaproveches tu oportunidad y date una vuelta por mi taller.
 ----
 
-[^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
+(https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
 
 [Just the Docs]: https://just-the-docs.github.io/just-the-docs/
 [GitHub Pages]: https://docs.github.com/en/pages
