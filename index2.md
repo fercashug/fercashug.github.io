@@ -1,11 +1,12 @@
 ---
-title: ubicación
+title: compraventas
 layout: home
 ---
 
 Aqui vamos hablar de los tipos de coches que quiero vender y os voy a enseñar las caracteristicas de los coches.
 
-To get started with creating a site, simply:
+Vendo este precioso chévrolet del 86 por tan solo 6500€
+[Chévrolet del 86 seminuevo]!(https://cdn.dealeraccelerate.com/gaa/39/21746/183451/1920x1440/1986-chevrolet-silverado) 
 
 1. click "[use this template]" to create a GitHub repository
 2. go to Settings > Pages > Build and deployment > Source, and select GitHub Actions
