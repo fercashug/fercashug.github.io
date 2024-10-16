@@ -10,7 +10,11 @@ Vendo este precioso chévrolet del 86 por tan solo 6500€
 
 ![Chévrolet del 86 seminuevo](https://cdn.dealeraccelerate.com/gaa/39/21746/183451/1920x1440/1986-chevrolet-silverado) 
 
+Esta en perfetas condiciones con tan solo 50000 km y conla ITV pasada  en 2024
+
 ![Citroen C15 de 2002 con 300.000 km](https://cdn.motor1.com/images/mgl/VznReB/s1/citroen-c15-deportiva.webp)
+
+Sirve para transportar gente, animales, materiales lijeros y pesados, puedes ir al monte cpn ella, es un vehículo indestructible de los que ya no quedan, **y tan solo por 4000€**
 
 ----
 
