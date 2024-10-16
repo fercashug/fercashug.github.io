@@ -6,12 +6,11 @@ layout: home
 Aqui vamos hablar de los tipos de coches que quiero vender y os voy a enseñar las caracteristicas de los coches.
 
 Vendo este precioso chévrolet del 86 por tan solo 6500€
+
+
 ![Chévrolet del 86 seminuevo](https://cdn.dealeraccelerate.com/gaa/39/21746/183451/1920x1440/1986-chevrolet-silverado) 
 
-1. click "[use this template]" to create a GitHub repository
-2. go to Settings > Pages > Build and deployment > Source, and select GitHub Actions
 
-If you want to maintain your docs in the `docs` directory of an existing project repo, see [Hosting your docs from an existing project repo](https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md#hosting-your-docs-from-an-existing-project-repo) in the template README.
 
 ----
 
