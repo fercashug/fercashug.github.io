@@ -13,7 +13,9 @@ Vendo este precioso chévrolet del 86 por tan solo 6500€
 Esta en perfetas condiciones con tan solo 50000 km y conla ITV pasada  en 2024
 
 
-
+<br>
+<br>
+<br>
 
 ![Citroen C15 de 2002 con 300.000 km](https://cdn.motor1.com/images/mgl/VznReB/s1/citroen-c15-deportiva.webp)
 
