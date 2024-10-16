@@ -1,4 +1,5 @@
-title: indice
+---
+title: ubicación
 layout: home
 ---
 
