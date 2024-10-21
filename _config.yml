@@ -4,6 +4,8 @@ theme: just-the-docs
 
 url: https://fercashug.github.io
 
+color_scheme: dark
+
 nav_external_links:
   - title: Ejemplo de venta de coche
     url: https://www.youtube.com/watch?v=nz_bzvd1Q9M
