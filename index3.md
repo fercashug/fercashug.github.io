@@ -2,7 +2,7 @@
 title: info de la pag
 layout: home
 ---
-aqui podeis dejar vuestras dudas y quejas
+#Aquí podeis dejar vuestras dudas y quejas
 <br>
 <br>
 <br>
