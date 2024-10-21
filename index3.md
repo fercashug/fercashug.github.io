@@ -2,7 +2,7 @@
 title: info de la pag
 layout: home
 ---
-Aquí podeis dejar vuestras dudas y quejas
+# Aquí podeis dejar vuestras dudas y quejas
 <br>
 <br>
 <br>
@@ -12,14 +12,13 @@ Preguntas más frecuentes:
 <br>
 Puedo probar el coche  antes de comprarlo?
 <br>
-Si, puedes hacer una  prueba de hasta 100km.
+Si, puedes hacer una  prueba de hasta 100km
 <br>
 Llevan la ITV pasada?
 <br>
-Nos aseguramos de que todos nuestros coches lleven la ITV pasada. 
-----
+Nos aseguramos de que todos nuestros coches lleven la ITV pasada
+---
 
-[^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
 
 [Just the Docs]: https://just-the-docs.github.io/just-the-docs/
 [GitHub Pages]: https://docs.github.com/en/pages
