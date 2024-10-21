@@ -1,5 +1,5 @@
 ---
-title: mas info
+title: cuerpo técnico
 layout: home
 parent: indice
 ---
